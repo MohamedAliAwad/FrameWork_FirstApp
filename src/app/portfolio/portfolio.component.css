@@ -1,0 +1,40 @@
+.start{
+    height: 4px;
+    background-color: black;
+    width: 80px;
+}
+
+.end{
+    height: 4px;
+    background-color: black;
+    width: 80px;
+}
+
+.image{
+    position: relative;
+    border-radius: 10px;
+
+}
+.image img{
+    border-radius: 10px;
+}
+
+.image img:hover{
+    border-radius: 10px;
+}
+
+.wraper{
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background-color: #1abc9ce6;
+    opacity: 0;
+}
+
+.wraper:hover{
+    transition: 0.6s opacity;
+    opacity: .8;
+    border-radius: 10px;
+}

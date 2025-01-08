@@ -1,0 +1,21 @@
+.main{
+    background-color: #1abc9c;
+}
+
+.main img{
+    width: 250px;
+    display: block;
+    
+}
+
+.start{
+    height: 4px;
+    background-color: white;
+    width: 80px;
+}
+
+.end{
+    height: 4px;
+    background-color: white;
+    width: 80px;
+}

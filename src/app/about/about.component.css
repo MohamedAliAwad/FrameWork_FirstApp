@@ -1,0 +1,16 @@
+.about{
+    background-color: #1abc9c;
+    height: 50vh;
+}
+
+.start{
+    height: 4px;
+    background-color: white;
+    width: 80px;
+}
+
+.end{
+    height: 4px;
+    background-color: white;
+    width: 80px;
+}
